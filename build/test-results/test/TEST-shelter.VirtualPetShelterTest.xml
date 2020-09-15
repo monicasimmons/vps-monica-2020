@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="shelter.VirtualPetShelterTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2020-09-15T00:02:54" hostname="UNIT2020-15" time="0.055">
+  <properties/>
+  <testcase name="shouldBeAbleToAddFourPets()" classname="shelter.VirtualPetShelterTest" time="0.023"/>
+  <testcase name="shouldBeAbleToAddSixPets()" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <testcase name="shouldBeAbleToAddAPet()" classname="shelter.VirtualPetShelterTest" time="0.007"/>
+  <testcase name="tickShouldDecreaseFoodLevelBy1()" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <testcase name="shouldBeAbleToAddThreePets()" classname="shelter.VirtualPetShelterTest" time="0.002"/>
+  <testcase name="shouldBeAbleToAddTwoPets()" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <testcase name="shouldBeAbleToRemoveAPet()" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <testcase name="playWithShouldDecreaseBoredomLevelBy10()" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <testcase name="giveWaterToShouldIncreaseWaterLevelBy10()" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <testcase name="tickShouldDecreaseWaterLevelBy1()" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <testcase name="feedShouldIncreaseFoodLevelBy10()" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <testcase name="shouldBeAbleToAddFivePets()" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <testcase name="tickShouldIncreaseBoredomLevelBy1()" classname="shelter.VirtualPetShelterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
