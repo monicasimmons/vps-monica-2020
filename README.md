@@ -1,4 +1,4 @@
-# vps-monica-2020
+# About Virtual Pet Shelter
 
 I created this virtual pet shelter program to help a user navigate a visit to a pet shelter. First they have the option of choosing whether they are there to volunteer, adopt a pet, or admit a pet.
 
